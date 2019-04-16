@@ -1,0 +1,22 @@
+# create by @ghsgz in 2019/4/16
+#    color and boldColor are same currently. 
+
+BackgroundColour=43,43,43
+ForegroundColour=169,183,198
+CursorColour=238,238,238
+Black=0,0,0
+BoldBlack=0,0,0
+Red=231,70,68
+BoldRed=231,70,68
+Green=55,156,26
+BoldGreen=55,156,26
+Yellow=220,196,87
+BoldYellow=220,196,87
+Blue=83,148,236
+BoldBlue=83,148,236
+Magenta=174,138,190
+BoldMagenta=174,138,190
+Cyan=41,153,153
+BoldCyan=41,153,153
+White=238,238,238
+BoldWhite=238,238,238
